@@ -29,22 +29,28 @@
 
   </br>
   </br>
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white"/>
+  
+  </br>
+  </br>
   
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-  
+
   </br>
   </br>
-  
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/ahk-334455?style=flat-square&logo=autohotkey&logoColor=white"/>
   <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  
+
   </br>
   </br>
   </br>
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=Jaeminst&show_icons=true&theme=highcontrast"/>
   
   </br>
