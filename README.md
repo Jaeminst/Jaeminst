@@ -51,6 +51,7 @@
   </br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Jaeminst&show_icons=true&theme=highcontrast"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeminst&layout=compact&theme=highcontrast"/>
   
   </br>
   
