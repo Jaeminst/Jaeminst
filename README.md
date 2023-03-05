@@ -30,8 +30,9 @@
   </br>
 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   
   </br>
   </br>
@@ -42,9 +43,18 @@
   </br>
   </br>
 
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/ahk-334455?style=flat-square&logo=autohotkey&logoColor=white"/>
+  
+  </br>
+  </br>
+
+  <img src="https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
   </br>
   </br>
