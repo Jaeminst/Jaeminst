@@ -1,68 +1,39 @@
-[![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=Jaeminst's%20GitHub%20Profile%20&descAlignY=75&descAlign=60)](#)
+[![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=Jaeminst%20GitHub%20Profile%20&descAlignY=75&descAlign=60)](#)
 
-<div align="right">
-  <h4>
-    🌱 I’m looking to job on, <a title="" href="https://jaeminst.github.io" target="_blank">this is resume</a>
-  </h4>
-</div>
+# About Me
 
-## 🖥 Tech Stack️ ⌨  
+1. I'm a DevOps Engineer from Korea
+
+2. My favorites are Terraform, Docker, Nodejs, Go, Python, ShellScript
+
+3. You can find my Tech Blog at <a href="https://velog.io/@jm1225" target="_blank" rel="noopener noreferrer">재미를 추구하는 DevOps 엔지니어</a>
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,go,python," /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,docker,k8s,git,vscode,linux" /> <br /><br />
+
 
 <div align="center">
-<!--   <h3>
-    Langauges
-  </h3> -->
-  
-  <img src="https://skillicons.dev/icons?i=js" alt="description" width="100" height="48" />
-  
-  </br>
-  </br>
-  
 <!--   <h3>
     Tools
   </h3> -->
   
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-
-  </br>
-  </br>
-
+  <img src="https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  
-  </br>
-  </br>
-  
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-
-  </br>
-  </br>
-
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ahk-334455?style=flat-square&logo=autohotkey&logoColor=white"/>
-  
-  </br>
-  </br>
-
-  <img src="https://img.shields.io/badge/DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-
-  </br>
-  </br>
-  </br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaeminst&show_icons=true&theme=highcontrast"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeminst&layout=compact&theme=highcontrast"/>
   
+  </br>
+  </br>
   </br>
   
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeminst&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/>
