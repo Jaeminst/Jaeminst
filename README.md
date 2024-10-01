@@ -10,7 +10,9 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,go,python," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,ts,js,python" />
+<img src="https://github.com/user-attachments/assets/ed990f8b-bc38-4040-b8f1-d08a96954363"/>
+<br /><br />
 
 ## DB and Dev Tools etc
 
